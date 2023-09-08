@@ -1,4 +1,4 @@
-% This file generates theoretical and simulated relationships between
+% This file generates theoretically-estimated and simulated relationships between
 % system stability and delay length for different types of communities
 
 % This file can be used to generate Fig. 3a, Fig. 3b and Fig. 4a
