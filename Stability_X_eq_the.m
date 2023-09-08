@@ -1,5 +1,5 @@
-% This file generates the relationship between system stability and
-% equilibrium abundance
+% This file generates the theoretically-estimated relationship 
+% between system stability and equilibrium abundance
 
 % This file can be used to generate Fig. 5
 
